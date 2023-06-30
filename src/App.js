@@ -4,7 +4,7 @@ import IncrementNumber from './component/Container';
 function App() {
   return (
     <div className='App'>
-      <IncrementNumber />
+      <IncrementNumber/>
     </div>
   );
 }
